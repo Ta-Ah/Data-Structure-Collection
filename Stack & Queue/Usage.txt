@@ -1,0 +1,9 @@
+Uses of STACK
+_____________
+
+=> string reversing
+=> Undo mechanisam
+=> recursion or function call
+=> balacing parenthesis
+=> Infix t postfix or prefix
+=> Evaluation of postfis expression
